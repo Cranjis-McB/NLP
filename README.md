@@ -16,7 +16,7 @@ A Deep Dive into the vast world of the Natural Language Processing.
 6. Now, use [Knowledge Distillation](https://arxiv.org/abs/1503.02531) (Pretrained BERT or other Good model (in 3) as Teacher and smaller model (in 4) as Student) to train the smaller model.
 7. Compare the Performance of 3, 5, and 6 and Show the impact of Knowledge Distillation on the Accuracy (or any other Metric used for the Task).
 8. Do the Similar excersise for 3-7 in [PyTorch 2.0](https://pytorch.org/get-started/pytorch-2.0/)
-9. Compare the difference between time and Accuracy for PyTorch 1.0 and 2.0.
+9. Compare the difference in Time and Accuracy for PyTorch 1.0 and 2.0.
 
 **References**
 1. [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
