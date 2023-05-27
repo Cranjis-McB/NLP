@@ -5,7 +5,7 @@ A Deep Dive into the vast world of the Natural Language Processing.
 
 ### 101
 
-**The objective of this course is to**
+**Objectives**
 
 1. Implement the Transformer Architecture as mentioned in the paper [Attention Is All You Need
 ](https://arxiv.org/abs/1706.03762) from Scratch in PyTorch 1.0.
