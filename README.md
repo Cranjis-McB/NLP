@@ -8,7 +8,7 @@ A Deep Dive into the vast world of the Natural Language Processing.
 **Objectives**
 
 1. Implement the Transformer Architecture as mentioned in the paper [Attention Is All You Need
-](https://arxiv.org/abs/1706.03762) from Scratch in PyTorch 1.0.
+](https://arxiv.org/abs/1706.03762) from Scratch in PyTorch 1.0 [Notebook Link](https://github.com/Cranjis-McB/NLP/blob/main/101/attention_is_all_you_need.ipynb)
 2. Choose a dataset for Text Classification or other NLP task. (use opensource, Kaggle, etc)
 3. Use a GOOD pretrained model such as [Huggingface BERT](https://huggingface.co/docs/transformers/model_doc/bert) or etc and train on the chosen Dataset.
 4. Create a new model with lesser size from the implemented Architecture in 1. (use less number of encoder-decoder blocks/MultiAttentionHeads and Embeddings etc.)
