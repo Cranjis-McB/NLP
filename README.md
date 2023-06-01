@@ -23,3 +23,4 @@ A Deep Dive into the vast world of the Natural Language Processing.
 2. [Huggingface BERT](https://huggingface.co/docs/transformers/model_doc/bert)
 3. [Knowledge Distillation](https://arxiv.org/abs/1503.02531)
 4. [PyTorch 2.0](https://pytorch.org/get-started/pytorch-2.0/)
+5. [Feedback Prize - Predicting Effective Arguments](https://www.kaggle.com/competitions/feedback-prize-effectiveness/overview/prizes)
