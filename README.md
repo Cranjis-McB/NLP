@@ -10,7 +10,7 @@ A Deep Dive into the vast world of the Natural Language Processing.
 1. Implement the Transformer Architecture as mentioned in the paper [Attention Is All You Need
 ](https://arxiv.org/abs/1706.03762) from Scratch in PyTorch 1.0 [[Link]](https://github.com/Cranjis-McB/NLP/blob/main/101/attention_is_all_you_need.ipynb) :white_check_mark:
 2. Choose a dataset for Text Classification or other NLP task. [[Link]](https://www.kaggle.com/competitions/feedback-prize-effectiveness/data?select=train.csv) :white_check_mark:
-3. Use a GOOD pretrained model such as [Huggingface BERT](https://huggingface.co/docs/transformers/model_doc/bert) or etc and train on the chosen Dataset.
+3. Use a GOOD pretrained model such as [Huggingface BERT](https://huggingface.co/docs/transformers/model_doc/bert) or etc and train on the chosen Dataset. [[Link]](https://github.com/Cranjis-McB/NLP/blob/main/101/feedback-prize-huggingface-bert-model.ipynb) :white_check_mark:
 4. Create a new model with lesser size from the implemented Architecture in 1. (use less number of encoder-decoder blocks/MultiAttentionHeads and Embeddings etc.)
 5. Train this Model on the same dataset with same configuration. (Same Train-Validation set or Random SEED)
 6. Now, use [Knowledge Distillation](https://arxiv.org/abs/1503.02531) (Pretrained BERT or other Good model (in 3) as Teacher and smaller model (in 4) as Student) to train the smaller model.
